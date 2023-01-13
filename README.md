@@ -8,7 +8,7 @@ SO THAT our own site is optimized for search engines
 
 The following image shows the deployed application
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/deployedAppAccessibility.png)
+![Screenshot of the deployed app](./assets/deployedAppAccessibility.png)
 
 # Deployment Link
 
